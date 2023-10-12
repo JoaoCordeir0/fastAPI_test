@@ -1,8 +1,8 @@
 ## Descrição
 
-A API capaz de receber requisições HTTP e retornar respostas no formato JSON. 
+API capaz de receber requisições HTTP e retornar respostas no formato JSON. 
 
-A API permiti a criação, leitura, atualização e exclusão (CRUD) de recursos em um banco de dados PostgreSQL.
+API permite a criação, leitura, atualização e exclusão (CRUD) de recursos em um banco de dados PostgreSQL.
 
 ## Banco de dados
 
